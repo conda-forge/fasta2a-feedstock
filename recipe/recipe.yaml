@@ -1,5 +1,5 @@
 context:
-  version: "2.0.0"
+  version: "2.0.1"
   python_min: "3.10"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/f/fasta2a/fasta2a-${{ version }}.tar.gz
-    sha256: f54938f3dda4f10b3237eb7edd09be294f94582c03111c0d2fa277ebd565aa01
+    sha256: f044485ddb7d8904a58b3de2ae924ff9d227be142f79c489e54c95acc2a660c9
 
 build:
   number: 0
